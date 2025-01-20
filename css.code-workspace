@@ -24,9 +24,9 @@
 }
 
 .logo{
-    color: #8d3f00;
+    color: #c46518;
     font-size: 35px;
-    font-family: Arial;
+    font-family: 'Times New Roman', Times, serif;
     padding-left: 20px;
     float: left;
     padding-top: 10px;
@@ -161,14 +161,14 @@ ul li a:hover{
 }
 
 .content span{
-    color: #ff7200;
+    color: #ff4800;
     font-size: 65px
 }
 
 .form{
     width: 250px;
     height: 380px;
-    background: linear-gradient(to top, rgba(0,0,0,0.8)50%,rgba(0,0,0,0.8)50%);
+    background: linear-gradient(to top, rgba(3, 4, 70, 0.8)50%,rgba(24, 29, 90, 0.8)50%);
     position: absolute;
     top: -20px;
     left: 870px;
